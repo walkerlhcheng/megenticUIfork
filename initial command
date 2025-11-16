@@ -3,3 +3,4 @@ source .venv/bin/activate
 pip install magentic-ui --upgrade
 
 magentic-ui --port 8081
+pip install magentic-ui[azure]
